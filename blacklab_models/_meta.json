@@ -1,0 +1,7 @@
+{
+  "project": "blacklab",
+  "crafts": [
+    "blacklab_rf_power_predictor_v1"
+  ],
+  "version": "0.2.0"
+}
